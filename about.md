@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm John.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Yes, there is more, but not here.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[blog@cobo.33mail.com](mailto:email@domain.com)
